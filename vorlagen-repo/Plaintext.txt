@@ -1,0 +1,4 @@
+# Einfache Plaintext.txt Vorlagedatei 
+# des Vorlagen-Repos von @flo-botrich 
+#
+# Verwende diese Datei als Vorlage für dein Projekt
